@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "savedAt": "2026-02-19T01:10:10.952Z",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "Olá! 👋 Sou especializado em criar aplicações para o Cosmos Pro.\n\nPosso gerar:\n• Menus de cards (como a tela de Dashboards Frequentes)\n• Dashboards com KPIs e gráficos (como Flash de Vendas)\n• CRUDs completos com tabelas e formulários\n• Relatórios com filtros e exportação\n\n💡 Dica: Cole uma imagem (Ctrl+V) ou anexe para usar como referência de layout!\n\nDescreva o que você precisa!"
+    },
+    {
+      "role": "user",
+      "content": "Crie um dashboard de análise de vendas, com os seguintes gráficos:\n\n1. Gráfico de Vendas por Hora do Dia x do Dia Anterior do Lado Esquerdo\n2. Gráfico de Vendas por Dia do Mês do Lado Direito\n3. Em baixo dos gráficos uma serie de cards com Venda Bruta, Desconto Automático, Desconto Negociado, Desconto Total Venda Liquida, Total de Impostos, Receita Liquida, Total de CMV, Comissões, Lucro Bruto. Todos os Cards tem que ter o valor do dia x valor do dia anterior e o percentual de diferença",
+      "hasImage": false
+    },
+    {
+      "role": "assistant",
+      "content": "✅ 6 arquivos gerados! Veja na árvore de arquivos.\n\nQuer que eu faça algum ajuste?"
+    },
+    {
+      "role": "user",
+      "content": "Quero sim, quero que use os componentes do AGChart",
+      "hasImage": false
+    },
+    {
+      "role": "assistant",
+      "content": "✅ 6 arquivos gerados! Veja na árvore de arquivos.\n\nQuer que eu faça algum ajuste?"
+    }
+  ]
+}
